@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="www.linkedin.com/in/keturah-cathnott-37650959">
+  <a href="www.linkedin.com/in/Kitty-Cathnott">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/19597342/keturah-cathnott">
@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m strengthening my skills as a full stack developer
 - 🌱 I’m currently learning all things Web development: User Interface Basics, Programming etc.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kitty-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/keturah-cathnott-37650959)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kitty-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/Kitty-Cathnott)
 - ⚡ I love ALL things Tech ... 🌐 I'm here for Global digitalization! 🌐
 
 ---
